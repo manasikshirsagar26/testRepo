@@ -4,6 +4,7 @@ print(message)
 message=("Python is great language to learn")
 print(message)
 
+#### Datatype - String ####
 
 ###String Concatenation
 name="Manasi"
@@ -39,3 +40,28 @@ myname="\tPython is my easy language to learn  \n"
 print(myname.strip())
 print(myname.lstrip()) ## only consider \n for the lstrip function
 print(myname.rstrip()) ## only consider \t for the rstrip function
+
+
+#### DataType - Number ####
+
+###### Arithmatic Operations:-
+
+## Addition
+print(5+3)
+
+## Multiplication
+print(4*2)
+
+## Subtraction
+print(10-2)
+
+## Division
+print(16/2)
+
+
+## String Number concatenation-
+fav_number=26
+print("My favourite number is "+str(fav_number)+"; Because it is my birthday")
+
+### Zen of Python
+import this
